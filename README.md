@@ -23,13 +23,13 @@ Ideal para praticar conceitos básicos de lógica, layout e interação com o us
 
 ---
 
-## 📷 Como ela ficou
+## 📷 Como ela ficou:
 
 ![Preview da calculadora de IMC](https://i.imgur.com/p3yJAPx.png)
 
 ---
 
-## 👨‍💻 Quem fez
+## 👨‍💻 Quem fez?
 
 Feito por [Matheus Ferreira](https://www.linkedin.com/in/matheuspferreira/), explorando mini projetos para aprender, criar e compartilhar com a comunidade dev.  
 Você pode ver mais no meu [GitHub](https://github.com/mathpferreira).

@@ -30,3 +30,9 @@ function calcularIMC() {
       resultado.className = `mt-6 text-center text-lg font-medium ${corClasse}`;
       resultado.innerHTML = `Seu IMC é <strong>${imc.toFixed(2)}</strong> (${classificacao})`;
     }
+
+    document.addEventListener("keydown", function (event) {
+  if (event.key === "Enter") {
+    calcularIMC();
+  }
+});
